@@ -1,0 +1,52 @@
+Maths Project
+Maths used in project
+
+Euro conversion
+euro-pounds = euro*0.85
+euro-dollars = euro*1.09
+euro-crypto = euro*0.000017
+euro-bitcoin = euro*0.000017
+
+Pounds conversion
+pounds-euro = pounds*1.17
+pounds-dollars = pounds*1.27
+pounds-crypto = pounds*0.00002
+pounds-bitcoin = pounds*0.00002
+
+Dollars conversion
+dollars-euro = dollars*0.92
+dollars-pounds = dollars*0.79
+dollars-crypto = dollars*0.000016
+dollars-bitcoin = dollars*0.000016
+
+Scaling issue for random number generator in java
+Java only allows a double random number generator to be between 0-1
+The code used to correct this was:
+double start = 0.56;
+double end = 0.97;
+double random = new Random().nextDouble();
+double result = start +  (random * (end - start));
+return result;
+
+Investment Calculations for each stock
+Apple:
+lowest point in last 3 months - 0.56%
+highest point in last 3 months - 0.97%
+Microsoft:
+lowest point in last 3 months - 2.62%
+highest point in last 3 months - 16.43%
+Tesla:
+lowest point in last 3 months - 17.6%
+highest point in last 3 months - 29.1%
+Netflix:
+lowest point in last 3 months - 1.1%
+highest point in last 3 months - 49.7%
+
+How the investment was calculated was done by using the random number genrator to pick a number between highest and lowest 
+and then multiply that by the amount that was originally invested
+Example:
+Apple stock was chosen
+1000 was entered as currency
+random number genertor chose 0.6706%
+returned result was 1006.70
+profit was 6.70 

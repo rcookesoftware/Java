@@ -1,0 +1,149 @@
+Example1
+Please Enter your starting value: 1000
+Welcome to Ryan Cubeds' Maths Project
+Welcome to our Currency Converter
+--------------------------------
+Please select your starting currency
+1.Euro
+2.Pounds
+3.Dollars
+4.Exit
+Please enter selection: 1
+--------------------------------
+Please select what currency you would like to convert Euros to
+1.Pounds
+2.Dollars
+3.Crypto
+4.Bitcoin
+Enter choice: 2
+Euros to Dollars: 1090.0
+--------------------------------
+Would you like to re-enter another value for conversion or convert current currency to crypto
+(1 for re-entry/2 for crypto):
+2
+--------------------------------
+You currently have 1000.0 Euros converted to crypto
+Would you like to invest in a stock or exit program (1 for invest/2 for exit): 1
+Choose a stock
+1.Apple
+2.Microsoft
+3.Tesla
+4.Netflix
+Enter choice: 3
+You have selected Tesla
+Total return made from investment in Microsoft is: 28039.70261
+Profit after withdrawal is: 27039.70
+--------------------------------
+--------------------------------
+
+Example2
+Please Enter your starting value: 78
+Welcome to Ryan Cubeds' Maths Project
+Welcome to our Currency Converter
+--------------------------------
+Please select your starting currency
+1.Euro
+2.Pounds
+3.Dollars
+4.Exit
+Please enter selection: 2
+--------------------------------
+Please select what currency you would like to convert Pounds to
+1.Euros
+2.Dollars
+3.Crypto
+4.Bitcoin
+Enter choice: 4
+Pounds to Bitcoin: 0.0015600000000000002
+--------------------------------
+Would you like to re-enter another value for conversion or convert current currency to crypto
+(1 for re-entry/2 for crypto):
+1
+--------------------------------
+Please Enter your starting value: 2000
+Welcome to Ryan Cubeds' Maths Project
+Welcome to our Currency Converter
+--------------------------------
+Please select your starting currency
+1.Euro
+2.Pounds
+3.Dollars
+4.Exit
+Please enter selection: 1
+--------------------------------
+Please select what currency you would like to convert Euros to
+1.Pounds
+2.Dollars
+3.Crypto
+4.Bitcoin
+Enter choice: 1
+Euros to Pounds: 1700.0
+--------------------------------
+Would you like to re-enter another value for conversion or convert current currency to crypto
+(1 for re-entry/2 for crypto):
+1
+--------------------------------
+Please Enter your starting value: 100
+Welcome to Ryan Cubeds' Maths Project
+Welcome to our Currency Converter
+--------------------------------
+Please select your starting currency
+1.Euro
+2.Pounds
+3.Dollars
+4.Exit
+Please enter selection: 3
+--------------------------------
+Please select what currency you would like to convert Dollars to
+1.Euros
+2.Pounds
+3.Crypto
+4.Bitcoin
+Enter choice: 1
+Dollars to Euros: 92.0
+--------------------------------
+Would you like to re-enter another value for conversion or convert current currency to crypto
+(1 for re-entry/2 for crypto):
+2
+--------------------------------
+You currently have 100.0 Dollars converted to crypto
+Would you like to invest in a stock or exit program (1 for invest/2 for exit): 2
+--------------------------------
+--------------------------------
+
+
+Example3
+Please Enter your starting value: 900
+Welcome to Ryan Cubeds' Maths Project
+Welcome to our Currency Converter
+--------------------------------
+Please select your starting currency
+1.Euro
+2.Pounds
+3.Dollars
+4.Exit
+Please enter selection: 3
+--------------------------------
+Please select what currency you would like to convert Dollars to
+1.Euros
+2.Pounds
+3.Crypto
+4.Bitcoin
+Enter choice: 4
+Dollars to Bitcoin: 0.0144
+--------------------------------
+Would you like to re-enter another value for conversion or convert current currency to crypto
+(1 for re-entry/2 for crypto):
+2
+--------------------------------
+You currently have 900.0 Dollars converted to crypto
+Would you like to invest in a stock or exit program (1 for invest/2 for exit): 1
+Choose a stock
+1.Apple
+2.Microsoft
+3.Tesla
+4.Netflix
+Enter choice: 4
+You have selected Netflix
+Total return made from investment in Microsoft is: 4009.48715
+Profit after withdrawal is: 3109.49
