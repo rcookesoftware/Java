@@ -1,4 +1,0 @@
-1234567A,Ryan Cooke, 22, 58 Clochran Kilcloghans Tuam
-7654321A,Martin Hynes,43,42 Main Street
-1357924A,Cathal Burke,21,16 High Street
-0987654A,Ryan Terrones,21,138 Clochran Kilcloghans Tuam
